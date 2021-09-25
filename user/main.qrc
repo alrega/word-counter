@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/Histogram.qml</file>
+        <file>qml/AppHeader.qml</file>
+        <file>qml/AppFooter.qml</file>
+        <file>qml/AppContent.qml</file>
+    </qresource>
+</RCC>
